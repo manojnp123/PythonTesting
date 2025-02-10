@@ -3,3 +3,5 @@ print(type(age))
 
 result=max(3,4)
 print(result)
+
+agw1 = 45
